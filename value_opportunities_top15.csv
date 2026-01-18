@@ -1,0 +1,16 @@
+product_id,product_name,brand_name,secondary_category,price_usd,loves_count,rating,reviews,log_price,log_loves,rating_per_dollar,popularity_level,price_level,segment
+P460703,Organic Cotton Swabs,SEPHORA COLLECTION,Accessories,3.0,21081,4.4624,93.0,1.3862943611198906,9.956174874815135,1.4875,High,Low,Low Price / High Popularity
+P409800,Cleansing & Exfoliating Wipes,SEPHORA COLLECTION,Cleansers,3.0,266116,4.3383,3837.0,1.3862943611198906,12.491691340682406,1.4461,High,Low,Low Price / High Popularity
+P421291,Artist Color Refillable Makeup Palette,MAKE UP FOR EVER,Makeup Palettes,4.0,57439,4.73,263.0,1.6094379124341003,10.958496203722106,1.1825,High,Low,Low Price / High Popularity
+P446621,Organic Cotton Pads,SEPHORA COLLECTION,Accessories,4.5,47223,4.4944,267.0,1.7047480922384253,10.762657516920525,0.9988,High,Low,Low Price / High Popularity
+P467138,Beauty on the Fly Reusable Bag,SEPHORA COLLECTION,Beauty Accessories,4.95,16473,4.7,60.0,1.7833912195575383,9.709538659501193,0.9495,High,Low,Low Price / High Popularity
+P502975,Velour Makeup Face Puff,SEPHORA COLLECTION,Brushes & Applicators,5.0,39336,4.4423,52.0,1.791759469228055,10.57992083077393,0.8885,High,Low,Low Price / High Popularity
+P455900,100% Plant-Derived Hemi-Squalane,The Ordinary,Treatments,5.0,48131,4.398,294.0,1.791759469228055,10.781702515558052,0.8796,High,Low,Low Price / High Popularity
+P478029,Mini Fulvic Acid Brightening Cleanser,The INKEY List,Cleansers,5.99,18399,4.4203,345.0,1.944480556245719,9.820105943597078,0.7379,High,Low,Low Price / High Popularity
+P455338,100% L-Ascorbic Acid Powder,The Ordinary,Treatments,6.4,65023,4.3317,202.0,2.0014800002101243,11.0825117114981,0.6768,High,Low,Low Price / High Popularity
+P468709,100% Niacinamide Powder,The Ordinary,Treatments,6.4,27717,4.3187,91.0,2.0014800002101243,10.229837300628748,0.6748,High,Low,Low Price / High Popularity
+P42204,Rosebud Salve,Rosebud Perfume Co.,Lip Balms & Treatments,7.0,81724,4.6463,5199.0,2.0794415416798357,11.311115231592412,0.6638,High,Low,Low Price / High Popularity
+P84818,Pencil Sharpener,NARS,Beauty Tools,7.0,59164,4.6264,910.0,2.0794415416798357,10.988085429818659,0.6609,High,Low,Low Price / High Popularity
+P397623,Dermask Water Jet Vital Hydra Solution,Dr. Jart+,Masks,7.0,40090,4.5507,276.0,2.0794415416798357,10.598907149201738,0.6501,High,Low,Low Price / High Popularity
+P500744,Clean Lip Balm & Scrub,SEPHORA COLLECTION,Lip Balms & Treatments,7.0,24932,4.5128,470.0,2.0794415416798357,10.123947506221135,0.6447,High,Low,Low Price / High Popularity
+P440484,"Facial Spray with Aloe, Chamomile and Lavender",Mario Badescu,Moisturizers,7.0,16337,4.4396,91.0,2.0794415416798357,9.701248961901815,0.6342,High,Low,Low Price / High Popularity
