@@ -6,3 +6,4 @@ Consistently outperforming brands
 Hidden high-quality products with low visibility
 Price-contextualized extreme popularity outliers
 The analysis integrates review metadata, product engagement metrics, pricing, and robust statistical techniques to derive strategic insights relevant for assortment planning, merchandising, and brand evaluation.
+The Kaggle dataset: https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews
